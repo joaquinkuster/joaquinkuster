@@ -117,5 +117,3 @@
 ![Instagram](https://img.shields.io/badge/Instagram-@joaquin__kuster-E4405F?logo=instagram&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-A%20definir-000000?logo=vercel&logoColor=white)
 ![Teléfono](https://img.shields.io/badge/Teléfono-3757%20409811-25D366?logo=whatsapp&logoColor=white)
-
----
