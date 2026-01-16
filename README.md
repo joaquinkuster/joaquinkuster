@@ -107,6 +107,8 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinkuster&show_icons=true&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinkuster&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinkuster&layout=compact&theme=tokyonight)
 
