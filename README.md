@@ -18,6 +18,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaquinkuster&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaquinkuster&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💻 Lenguajes
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -104,10 +119,3 @@
 ![Teléfono](https://img.shields.io/badge/Teléfono-3757%20409811-25D366?logo=whatsapp&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaquinkuster&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaquinkuster&layout=compact&theme=tokyonight)
-
