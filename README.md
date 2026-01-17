@@ -104,9 +104,6 @@
 - ⚛️ Programación reactiva: **React, Angular, Vue**
 - 🧩 Frameworks backend: **NestJS, Next.js**
 - 📱 Desarrollo móvil: **React Native, Flutter, Dart**
-- 🤖 Automatización de tareas e IA  
-  - Flujos de trabajo inteligentes  
-  - Uso de modelos entrenados de inteligencia artificial  
 
 ---
 
