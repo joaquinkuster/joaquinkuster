@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Joaquín</h1>
   <p>
-    💻 Estudiante Avanzado de <strong>Analista en Sistemas</strong> y <strong>Licenciatura en Sistemas de Información</strong><br>
+    💻 Estudiante avanzado de <strong>Analista en Sistemas</strong> y <strong>Licenciatura en Sistemas de Información</strong><br>
     🎓 Facultad de Ciencias Exactas, Químicas y Naturales (FCEQyN)<br>
     🏛️ Universidad Nacional de Misiones (UNaM)
   </p>
