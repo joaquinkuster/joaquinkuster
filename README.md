@@ -109,8 +109,8 @@
 
 ## 🤝 Contacto
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-A%20definir-0A66C2?logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-joaquinkuster3000%40gmail.com-D14836?logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-@joaquin__kuster-E4405F?logo=instagram&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-A%20definir-000000?logo=vercel&logoColor=white)
-![Teléfono](https://img.shields.io/badge/Teléfono-3757%20409811-25D366?logo=whatsapp&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-k%C3%BCster-64349a33a/)
+[![Email](https://img.shields.io/badge/joaquinkuster3000%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:joaquinkuster3000@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/3757%20409811-25D366?logo=whatsapp&logoColor=white)](https://wa.me/543757409811)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/joaquin__kuster)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://tu-portfolio.com)
